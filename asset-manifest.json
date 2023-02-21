@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BeeperDev/react-colab-project/static/css/main.0681588f.css",
-    "main.js": "/BeeperDev/react-colab-project/static/js/main.3d56cde4.js",
-    "static/js/787.18e52a8b.chunk.js": "/BeeperDev/react-colab-project/static/js/787.18e52a8b.chunk.js",
-    "index.html": "/BeeperDev/react-colab-project/index.html",
-    "main.0681588f.css.map": "/BeeperDev/react-colab-project/static/css/main.0681588f.css.map",
-    "main.3d56cde4.js.map": "/BeeperDev/react-colab-project/static/js/main.3d56cde4.js.map",
-    "787.18e52a8b.chunk.js.map": "/BeeperDev/react-colab-project/static/js/787.18e52a8b.chunk.js.map"
+    "main.css": "/react-colab-project/static/css/main.0681588f.css",
+    "main.js": "/react-colab-project/static/js/main.d3d393a8.js",
+    "static/js/787.18e52a8b.chunk.js": "/react-colab-project/static/js/787.18e52a8b.chunk.js",
+    "index.html": "/react-colab-project/index.html",
+    "main.0681588f.css.map": "/react-colab-project/static/css/main.0681588f.css.map",
+    "main.d3d393a8.js.map": "/react-colab-project/static/js/main.d3d393a8.js.map",
+    "787.18e52a8b.chunk.js.map": "/react-colab-project/static/js/787.18e52a8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0681588f.css",
-    "static/js/main.3d56cde4.js"
+    "static/js/main.d3d393a8.js"
   ]
 }
